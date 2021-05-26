@@ -23,3 +23,4 @@ in folder Example create new folder follow each course .
 
 - example 2: work with AJAX (connect server) . 
     // TODO . 
+- example 3: 
